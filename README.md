@@ -1,9 +1,7 @@
 # Cockpit CMS Addon List
-Cockpit CMS Addon List
 
 * CockpitQL (GraphQL addon for Cockpit CMS):
 https://github.com/agentejo/CockpitQL
-
 
 * Hugo Addon
 https://github.com/iakta/hugocockpit
