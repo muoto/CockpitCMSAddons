@@ -30,5 +30,10 @@ https://github.com/agentejo/Auth0
 Manage global layout-builder components - Cockpit addon
 https://github.com/agentejo/LayoutComponents
 
+Cockpit CMS add-on
+https://github.com/pauloamgomes/ImageStyles
+
+Backup and Restore add-on for Cockpit CMS
+https://github.com/pauloamgomes/Cockpit-Backup-and-Restore
 
 https://github.com/agentejo/cockpit/issues/667
