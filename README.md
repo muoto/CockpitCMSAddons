@@ -36,4 +36,10 @@ https://github.com/pauloamgomes/ImageStyles
 Backup and Restore add-on for Cockpit CMS
 https://github.com/pauloamgomes/Cockpit-Backup-and-Restore
 
+Extend Cockpit core functionality by sending a customized email when a collection is saved.
+https://github.com/pauloamgomes/cockpit-EmailOnSave
+
+Spreadsheet import module for Cockpit CMS
+https://github.com/piotr-cz/cockpit-import
+
 https://github.com/agentejo/cockpit/issues/667
