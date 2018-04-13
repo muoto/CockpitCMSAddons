@@ -8,3 +8,5 @@ GraphQL addon for Cockpit CMS
 Hugo Addon
 https://github.com/iakta/hugocockpit
 A Hugo addon for Cockpit-Next CMS, generating Hugo compatible content and running Hugo for you
+
+https://github.com/agentejo/cockpit/issues/667
