@@ -41,7 +41,7 @@ https://github.com/pauloamgomes/cockpit-EmailOnSave
 https://github.com/piotr-cz/cockpit-import
 
 * Rating field for Cockpit CMS (Next)
-https://github.com/florianletsch/cockpit-mailqueue
+https://github.com/attitude/field-rating
 
 * Simple mailqueue module for Cockpit CMS
 https://github.com/florianletsch/cockpit-mailqueue
